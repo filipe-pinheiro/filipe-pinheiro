@@ -2,7 +2,7 @@
 
 ## About me 🙋‍♂️
 
-Hello, welcome to my profile! I am Filipe Pinheiro, a technology enthusiast and experienced Data Science professional. My goal is to help companies make strategic decisions through data analysis and development of effective solutions. With my expertise in Python, Machine Learning, and Statistical Analysis, I can work on challenging projects and offer creative solutions to complex problems. I am always seeking new learning opportunities and improving my technical skills to deliver excellent work to my clients. If you are looking for a highly qualified and dedicated professional, you are in the right place!
+Hi, I'm Filipe Pinheiro, an experienced Data Scientist and technology enthusiast. My aim is to help companies make strategic decisions through effective data analysis and solutions development. With expertise in Python, Machine Learning, and Statistical Analysis, I deliver creative solutions to complex problems. I'm always seeking new learning opportunities to improve my skills and deliver excellent work to clients.
 
 ## My skills 🛠️
 
