@@ -3,9 +3,13 @@
 
 ## About me 🙋‍♂️
 
-I am Filipe Pinheiro, a technology enthusiast and  Data Science professional. I use Phyton, Machine Learning and Statistical Analysis for challeging projects. A creative solution to each complex problem. Also providing effective data analisys for companies in search of quality decision making. 
+I am Filipe Pinheiro, a technology enthusiast and  Data Science professional.
+
+I use Phyton, Machine Learning and Statistical Analysis for challeging projects. A creative solution to each complex problem.
+
+Also providing effective data analisys for companies in search of quality decision making. 
  
-I am always seeking new learning opportunities. Contact me for anything you may need a professional developer
+I am always seeking new learning opportunities. Contact me for anything you may need a professional developer.
 
 ## My skills 🛠️
 
