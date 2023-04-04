@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I+am+Filipe+Pinheiro;I'm+Data+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I+am+Filipe+Pinheiro;I'm+Data+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## About me 🙋‍♂️
 
@@ -25,4 +25,4 @@ You can find me at:
 - [LinkedIn](https://www.linkedin.com/in/filipe-pinheiro-5b8922209/) 👔
 - [E-mail](filipepinheiro031@outlook.com) 📧
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=filipe-pinheiro&bg_color=000000&color=642a98&line=642a92&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=filipe-pinheiro&bg_color=000000&color=9400d3&line=9400d3&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
