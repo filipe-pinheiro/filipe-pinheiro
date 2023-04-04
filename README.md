@@ -1,4 +1,5 @@
-# 👋 Hello, I am Filipe Pinheiro. 👨‍💻
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I+am+Filipe+Pinheiro;I'm+Data+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## About me 🙋‍♂️
 
