@@ -1,17 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I+am+Filipe+Pinheiro;I'm+a+Researcher+in+Statistics+and+Data;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I+am+Filipe+Pinheiro;Welcome!+:%29)](https://git.io/typing-svg)
 
 ## About me 🙋‍♂️
 
-I am Filipe Pinheiro, a dedicated researcher with a focus on **Statistics**, **Data Science**, and **Complex Networks**.
+I'm Filipe Pinheiro, a passionate researcher working at the intersection of Statistics, Data Science, and Complex Networks..
 
-My primary programming language is **R**, and I specialize in applying statistical methods and data analysis to solve complex problems creatively. I enjoy uncovering insights and presenting data-driven solutions that support informed decision-making.
+WI have strong experience with tasks involving mathematical computing, modeling, and algorithm development. I enjoy combining programming with mathematical thinking to explore complex phenomena and uncover meaningful insights from data.
 
-I am constantly expanding my knowledge and exploring innovative approaches in my field. Feel free to reach out if you'd like to collaborate or discuss exciting projects!
+I'm always eager to learn new tools, collaborate on interdisciplinary projects, and dive deeper into the computational aspects of research. 
 
 ## My skills 🛠️
 
-- **Programming Languages:** R, Python, SQL, HTML, JavaScript  
-- **Statistical Tools & Libraries:** ggplot2, dplyr, tidyr, caret  
+- **Programming Languages:** R, Python
+- **Statistical Tools & Libraries:** networkx, pandas, scikit-learn
 - **Research Areas:** Complex Networks, Statistical Modeling, Machine Learning  
 
 ## My projects 💼
